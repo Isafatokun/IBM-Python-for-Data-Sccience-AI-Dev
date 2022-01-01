@@ -1,1 +1,1 @@
-# IBM-Python-for-Data-Sccience-AI-Dev
+# IBM-Python-for-Data-Science-AI-Dev
